@@ -1,27 +1,4 @@
-def display_board
-Welcome to Tic Tac Toe
-   |   |   
------------
-   |   |   
------------
-   |   |   
-What move would X like to make (1-9)?
-5
-   |   |   
------------
-   | X |   
------------
-   |   |   
-What move would O like to make (1-9)?
- 1
- 0 |   |   
------------
-   | X |   
------------
-   |   |  
 
-Tic tac Toe board
- end
 # Printing a Tic Tac Toe Board
 
 ## Overview
