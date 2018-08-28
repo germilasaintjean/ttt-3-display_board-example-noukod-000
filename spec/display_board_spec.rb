@@ -1,3 +1,10 @@
+def display_board
+  puts(   |   |   )
+  puts(-----------)
+  puts(   |   |   )
+  puts(-----------)
+  puts(   |   |   )
+end
 require_relative '../lib/display_board'
 
 describe '/lib/display_board.rb' do
